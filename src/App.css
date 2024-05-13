@@ -83,10 +83,6 @@
   @apply mt-5 text-5xl font-extrabold leading-[1.15] text-black sm:text-6xl text-center;
 }
 
-.orange_gradient {
-  @apply bg-gradient-to-r from-amber-500 via-orange-600 to-yellow-500 bg-clip-text text-transparent;
-}
-
 .desc {
   @apply mt-5 text-lg text-gray-600 sm:text-xl text-center max-w-2xl;
 }
@@ -107,8 +103,28 @@
   @apply w-7 h-7 rounded-full bg-white/10 shadow-[inset_10px_-50px_94px_0_rgb(199,199,199,0.2)] backdrop-blur flex justify-center items-center cursor-pointer;
 }
 
+.red_gradient {
+  @apply font-black bg-gradient-to-r from-red-500 to-pink-500 bg-clip-text text-transparent;
+}
+
+.orange_gradient {
+  @apply bg-gradient-to-r from-amber-500 via-orange-600 to-yellow-500 bg-clip-text text-transparent;
+}
+
+.yellow_gradient {
+  @apply font-black bg-gradient-to-r from-yellow-500 to-amber-500 bg-clip-text text-transparent;
+}
+
+.green_gradient {
+  @apply font-black bg-gradient-to-r from-green-500 to-emerald-500 bg-clip-text text-transparent;
+}
+
 .blue_gradient {
   @apply font-black bg-gradient-to-r from-blue-600 to-cyan-600 bg-clip-text text-transparent;
+}
+
+.purple_gradient {
+  @apply font-black bg-gradient-to-r from-purple-500 to-violet-500 bg-clip-text text-transparent;
 }
 
 .summary_box {

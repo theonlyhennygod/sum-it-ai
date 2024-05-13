@@ -14,7 +14,8 @@ const Hero = () => {
         </div>
       </nav>
 
-      <h1 className='text-6xl font-bold text-center text-gray-800'>Welcome to our website</h1>
+      <h1 className='text-6xl font-bold text-center text-gray-800'>Summarize Articles with <br className='max-md:hidden' /> <span className='red_gradient'>OpenAI GPT-4</span></h1>
+      <h2 className='text-2xl font-bold text-center text-gray-800'>Summarize articles with the power of OpenAI's GPT-4 model. <br className='max-md:hidden' /> <span className='orange_gradient'>Get started today!</span></h2>
 
     </header>
   )
