@@ -1,5 +1,12 @@
 # AI Article Summarizer
 
+#DEMO
+
+
+https://github.com/theonlyhennygod/sum-it-ai/assets/144828210/bd5c19f2-d1b0-4647-b825-52b78709e4fc
+
+
+
 This application is an AI-powered article summarizer that uses advanced natural language processing techniques to generate concise summaries of long articles. It can be used to quickly extract key information from lengthy texts, saving time and effort for readers.
 
 ## Technologies Used
