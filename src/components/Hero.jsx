@@ -10,7 +10,7 @@ const Hero = () => {
         <div className="flex justify-between items-center gap-4">
           <button
             type="button"
-            onClick={() => window.open("https//www.github.com/theonlyhennygod")}
+            onClick={() => window.open("https://www.github.com/theonlyhennygod", "_blank")}
             className="bg-black hover:bg-gray-700 text-white font-bold py-2 px-4 rounded"
           >
             By Argenis
